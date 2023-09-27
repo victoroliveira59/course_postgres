@@ -1,3 +1,4 @@
+
 CREATE TABLE sellers(
     id_seller SERIAL PRIMARY KEY,
     sel_name VARCHAR (50) NOT NULL,
