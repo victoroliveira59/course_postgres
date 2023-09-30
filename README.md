@@ -29,4 +29,3 @@
 <h2>Conclusão</h2>
 
 <p>O curso foi de grande valia para o aprendizado do PostgreSQL. Os conhecimentos adquiridos serão aplicados em projetos futuros.</p>
-stalação da forma correta e exercicios do curso de Postgresql </p>
